@@ -48,19 +48,7 @@ CCTV15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
-CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8
-CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
-CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226741/index.m3u8
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226759/index.m3u8
-CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226789/index.m3u8
-CCTV10,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226792/index.m3u8
-CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226853/index.m3u8
-CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226862/index.m3u8
-CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226976/index.m3u8
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227010/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8
-安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226195/index.m3u8
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226666/index.m3u8
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227340/index.m3u8
@@ -348,6 +336,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
 
