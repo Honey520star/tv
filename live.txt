@@ -134,8 +134,8 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
 辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
-辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
-辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
+辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
 4K频道,#genre#
 CCTV16 4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
 CCTV4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
@@ -190,11 +190,11 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 文物宝库,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227359/index.m3u8
 武术世界,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227487/index.m3u8
 教育台,#genre#
-中国教育1台,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
-中国教育2台,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
-中国教育3台,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
-中国教育4台,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
-中国教育1台,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
+中国教育1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
+中国教育2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
+中国教育3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
+中国教育4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
+中国教育1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
 航拍中国,#genre#
 航拍中国第一季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
@@ -312,6 +312,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
 
