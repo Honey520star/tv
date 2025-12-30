@@ -45,7 +45,6 @@ CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227349/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226181/index.m3u8
 CCTV15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227361/index.m3u8
 CCTV15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
-CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
@@ -349,5 +348,6 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
