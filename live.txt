@@ -80,10 +80,9 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227685/index.m3u8
 江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226672/index.m3u8
 江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226160/index.m3u8
 江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226143/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
 东南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227467/index.m3u8
 东南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227527/index.m3u8
 东南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226186/index.m3u8
@@ -95,7 +94,9 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227685/index.m3u8
 海南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227601/index.m3u8
 海南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226140/index.m3u8
 河北卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226163/index.m3u8
-河南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226146/index.m3u8
+河南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227595/index.m3u8
+河南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227612/index.m3u8
+黑龙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227583/index.m3u8
 黑龙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226145/index.m3u8
 湖北卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227518/index.m3u8
 湖北卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227586/index.m3u8
@@ -221,6 +222,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
 
