@@ -105,6 +105,12 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227685/index.m3u8
 江西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227598/index.m3u8
 江西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227619/index.m3u8
 江西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226142/index.m3u8
+宁夏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227494/index.m3u8
+西藏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
+新疆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227604/index.m3u8
+云南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227530/index.m3u8
+云南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227536/index.m3u8
+兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227464/index.m3u8
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
@@ -141,6 +147,7 @@ CCTV4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
 金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
 卡酷少儿,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
+新动漫,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227706/index.m3u8
 新动漫,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
 优漫卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
 嘉佳卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
@@ -160,8 +167,11 @@ CCTV4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
 中央新影-老故事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227438/index.m3u8
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
+CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
+CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
+CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 茶频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
@@ -211,6 +221,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
 
