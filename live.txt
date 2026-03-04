@@ -1,18 +1,9 @@
 央视卫视,#genre#
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
-CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8
-CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
-CCTV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8
-CCTV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227553/index.m3u8
-CCTV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
-CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226692/index.m3u8
-CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
-CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227324/index.m3u8
-CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
-CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227522/index.m3u8
-CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
+CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
+CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
+CCTV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227553/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
+CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226692/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227324/index.m3u8
+CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227522/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227571/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227555/index.m3u8
@@ -208,6 +199,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
 
