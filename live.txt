@@ -160,6 +160,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
+南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=b9916506bed8ebf670080a3f2109ba0c&txTime=19cd74577b9
 茶频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
 茶频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227705/index.m3u8
 睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
@@ -210,6 +211,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 封神第一部:朝歌风云,http://hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
 这么多年,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
 长沙夜生活,http://hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+
 
 
 
