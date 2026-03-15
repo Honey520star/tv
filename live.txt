@@ -144,6 +144,7 @@ CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
+1905电影,http://115.190.194.179:82/1905.php?id=1905a
 第一剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
 电视指南,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227374/index.m3u8
 风云剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
