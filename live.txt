@@ -174,6 +174,8 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 梨园频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
 文物宝库,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227359/index.m3u8
 武术世界,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227487/index.m3u8
+大连新闻综合,http://kyorika.hanben.online:40004/stream/channelid/692183971?profile=pass
+重温经典,http://kyorika.hanben.online:40004/stream/channelid/627789472?profile=pass
 教育台,#genre#
 中国教育1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
 中国教育2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
