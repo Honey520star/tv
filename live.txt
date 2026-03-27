@@ -162,8 +162,6 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=b9916506bed8ebf670080a3f2109ba0c&txTime=19cd74577b9
-茶频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
-茶频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227705/index.m3u8
 睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 睛彩竞技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 睛彩篮球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
