@@ -172,14 +172,6 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 河南梨园,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
 文物宝库,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227359/index.m3u8
 武术世界,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227487/index.m3u8
-大连新闻综合,http://kyorika.hanben.online:40004/stream/channelid/692183971?profile=pass
-重温经典,http://kyorika.hanben.online:40004/stream/channelid/627789472?profile=pass
-教育台,#genre#
-中国教育1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
-中国教育2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
-中国教育3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
-中国教育4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
-中国教育1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
 航拍中国,#genre#
 航拍中国第一季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
