@@ -103,12 +103,7 @@ CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
 1905电影,http://115.190.194.179:82/1905.php?id=1905a
-金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=b9916506bed8ebf670080a3f2109ba0c&txTime=19cd74577b9
-睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
-睛彩竞技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
-睛彩篮球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
-睛彩青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 快乐垂钓,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227632/index.m3u8
 河南梨园,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
 航拍中国,#genre#
