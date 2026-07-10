@@ -59,7 +59,6 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8
 河南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227612/index.m3u8
 湖北卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227518/index.m3u8
 湖北卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227586/index.m3u8
-湖北卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226877/index.m3u8
 广东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226167/index.m3u8
 广东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226686/index.m3u8
 广西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227577/index.m3u8
@@ -94,7 +93,8 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227452/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227546/index.m3u8
-金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
+金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227648/index.m3u8
+金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227669/index.m3u8
 新动漫,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227706/index.m3u8
 卡酷少儿,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
 优漫卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
@@ -102,7 +102,6 @@ CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227546/index.m3u8
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
-1905电影,http://115.190.194.179:82/1905.php?id=1905a
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=b9916506bed8ebf670080a3f2109ba0c&txTime=19cd74577b9
 快乐垂钓,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227632/index.m3u8
 河南梨园,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
