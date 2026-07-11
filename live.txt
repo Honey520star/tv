@@ -98,23 +98,12 @@ CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227546/index.m3u8
 新动漫,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227706/index.m3u8
 卡酷少儿,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
 优漫卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
-内蒙古少儿频道[1920*1080],http://play1-qk.nmtv.cn/live/2318general.m3u8
-内蒙古少儿频道[1920*1080],http://play1-qk.nmtv.cn/live/2327general.m3u8
-靖天卡通台,http://123.bhzz.today/live_proxy.php?id=55
-靖洋卡通台,http://123.bhzz.today/live_proxy.php?id=nicebingo
-MOMO亲子台,http://123.bhzz.today/live_proxy.php?id=momoparentchild
+内蒙古少儿,http://play1-qk.nmtv.cn/live/2318general.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/2327general.m3u8
+靖天卡通,http://123.bhzz.today/live_proxy.php?id=55
+靖洋卡通,http://123.bhzz.today/live_proxy.php?id=nicebingo
 MOMO亲子台,http://123.bhzz.today/live_proxy.php?id=MOMOQZT
-CN卡通频道,http://123.bhzz.today/live_proxy.php?id=CnCartoon
-CN卡通频道,http://123.bhzz.today/live_proxy.php?id=cncartoon
 CN卡通频道,http://123.bhzz.today/live_proxy.php?id=CNTW
-尼克儿童频道,http://123.bhzz.today/live_proxy.php?id=nickelodeon
-尼克儿童频道,http://123.bhzz.today/live_proxy.php?id=nickelodeonlm
-Boomerang,http://123.bhzz.today/live_proxy.php?id=BoomerangTW
-NickJr儿童频道,http://123.bhzz.today/live_proxy.php?id=nickjr
-BBC Cbeebies,http://123.bhzz.today/live_proxy.php?id=cbeebies
-BBC Cbeebies,http://123.bhzz.today/live_proxy.php?id=BBCCbeebiesTW
-经典卡通台,http://123.bhzz.today/live_proxy.php?id=classiccartoon
-MOMO台,http://123.bhzz.today/live_proxy.php?id=momokids
 NickJr儿童频道,http://123.bhzz.today/live_proxy.php?id=nickjr
 数字频道,#genre#
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
